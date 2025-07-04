@@ -1,2 +1,2 @@
-# Telegram_bot_Tiktok
+# Python_bot_Tiktok
 Tiktok Bot
