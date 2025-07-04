@@ -1,0 +1,4 @@
+python -m venv bots   
+.\bots\Scripts\activate
+
+python3 tiktok.py
